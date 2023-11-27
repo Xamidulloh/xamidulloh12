@@ -1,0 +1,134 @@
+nav {
+    height: 50px;
+    background-color: aqua;
+    border: 2px solid black;
+}
+
+header {
+    height: 200px;
+    background-color: aqua;
+    border: 2px solid black;
+
+}
+
+.left {
+    width: 70%;
+    height: 200px;
+    background-color: aqua;
+    border: 2px solid black;
+
+}
+
+.right {
+    width: 25%;
+    height: 200px;
+    background-color: aqua;
+    border: 2px solid black;
+
+}
+
+footer {
+    height: 150px;
+    background-color: aqua;
+    border: 2px solid black;
+
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* body {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+} */
+
+@media (max-width:1024px){
+
+}
+
+@media (max-width: 768px){
+
+}
+
+@media (max-width: 576px){
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
